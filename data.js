@@ -67,18 +67,20 @@ export default {
   workExperience: [
     {
       info: {
-        "Project": ["Landing Page"],
+        "Project": ["Altitude Esports"],
         "Description": [
-          "A nice and clean Landing page",
+          "Altitude is a international organisation",
         ],
 	      "My Objectives": [
 	        "Learn and grow",
-	        "Accessibility improvements"
+	        "Headers",
+		"Streampack",
+		"Hype Screen"
 	      ],
       },
 
-      link: "www.behance.net/vhen",
-      image: "/images/apple.png",
+      link: "twitter.com/AltitudeHQs",
+      image: "/images/Altitude.jpg",
     },
     {
       info: {
