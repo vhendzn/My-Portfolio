@@ -74,7 +74,6 @@ export default {
 	      "My Objectives": [
 	        "Learn and grow",
 	        "Accessibility improvements"
-		"enjoy"
 	      ],
       },
 
