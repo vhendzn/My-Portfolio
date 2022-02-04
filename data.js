@@ -1,9 +1,9 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
-  name: "Henry",
-  email: "therealjohndoe@gmail.com",
+  name: "vhen",
+  email: "vhenqs@gmail.com",
   about:
-    "Hey! I'm <b>Henry</b>, a twenty-four years old <b>User Interface</b> and <b>Experience Designer</b> currently based in <b>California</b>.",
+    "Hey! I'm <b>vhen</b>, a 14 years old <b>Talented graphic designer</b> and currently live in <b>Denmark</b>.",
 
   // intro
   accomplishments: {
@@ -12,46 +12,51 @@ export default {
       "Learned HTML + CSS",
       "Started a side project",
       "Cooked meal for myself and choked to death",
+	"Having my beautiful day",
     ],
   },
   socialLink: {
-    name: "Social Links",
+    name: "My social medias",
     value: [
-      { name: "Instagram", link: "/" },
-      { name: "Dribbble", link: "/" },
-      { name: "Twitter", link: "/" },
-      { name: "Github", link: "/" },
-      { name: "Youtube", link: "/" },
-      { name: "Spotify", link: "/" },
+      { name: "Twitter", link: "httsp://twitter.com/vhendzn" },
+      { name: "Github", link: "httsp://github.com/vhendzn" },
+      { name: "Youtube", link: "https://www.youtube.com/channel/UCcpZ-hRR6vkelWZI8Xf27Sg" },
+      { name: "Behance", link: "https://www.behance.net/vhen" },
     ],
   },
   currentProfession: {
     name: "Currently",
 	  value: [
-		  "Doing contract/freelance work",
+		  "Doing clients/organisations work",
 		  "Available for new projects"
+		  "Living my passion"
 	  ],
   },
 
   // Footer
   contactDetails: {
-    name: "Ways to contact me",
+    name: "Any Questions or wanna contact me",
     value: [
       {
         name: "Gmail",
-        value: "therealjohndoe@gmail.com",
+        value: "vhenqs@gmail.com",
       },
       {
         name: "Discord",
-        value: "DopeAss#9669",
+        value: "vhen#5789",
+      },
+{
+        name: "Twitter",
+        value: "@vhendzn",
       },
     ],
   },
   currentStatus: {
-    name: "What am I upto right now",
+    name: "What am i doing rn",
     value: [
-      "Walking my dog in the park",
-      "Making dog excuse to gawk at the hot girl",
+      "Designing",
+	"Doing sports",
+      "Playing video games",
     ],
   },
 
@@ -62,17 +67,18 @@ export default {
   workExperience: [
     {
       info: {
-        "Company": ["Apple"],
+        "Project": ["Landing Page"],
         "Description": [
-          "Looking to improve the overall quality of the product through a design thinking approach, as well as conducting Usability sessions to ensure the product appeals to our users.",
+          "A nice and clean Landing page",
         ],
 	      "My Objectives": [
-	        "User Testing",
+	        "Learn and grow",
 	        "Accessibility improvements"
+		"enjoy"
 	      ],
       },
 
-      link: "/",
+      link: "www.behance.net/vhen",
       image: "/images/apple.png",
     },
     {
@@ -108,5 +114,5 @@ export default {
   ],
 
   // available options:- light, dark, auto
-  theme: "light",
+  theme: "dark",
 };
