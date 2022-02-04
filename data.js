@@ -79,38 +79,40 @@ export default {
 	      ],
       },
 
-      link: "twitter.com/AltitudeHQs",
+      link: "https://twitter.com/AltitudeHQs",
       image: "/images/Studios Header.jpg",
     },
     {
       info: {
-        "Company": ["Apple"],
+        "Project": ["Fixture"],
         "Description": [
-          "Looking to improve the overall quality of the product through a design thinking approach, as well as conducting Usability sessions to ensure the product appeals to our users.",
+          "Fixture is a international organisation.",
         ],
         "My Objectives": [
-          "User Testing",
-          "Accessibility improvements"
+          "Header",
+          "Wallpaper",
+	  "Stream Pack"
         ],
       },
 
-      link: "/",
-      image: "/images/spiderman.png",
+      link: "https://twitter.com/FixtureEsports",
+      image: "/images/Fixture.jpg",
     },
     {
       info: {
-        "Company": ["Apple"],
+        "Project": ["Connecting Esports"],
         "Description": [
-          "Looking to improve the overall quality of the product through a design thinking approach, as well as conducting Usability sessions to ensure the product appeals to our users.",
+          "Danish Fortnite organisation",
         ],
         "My Objectives": [
-          "User Testing", 
-          "Accessibility improvements"
+          "Headers", 
+          "Welcome Screen",
+	  "Improve their overall graphics", 
         ],
       },
 
       link: "/",
-      image: "/images/microsoft.png",
+      image: "/images/Con esport.jpg",
     },
   ],
 
