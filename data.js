@@ -28,7 +28,7 @@ export default {
     name: "Currently",
 	  value: [
 		  "Doing clients/organisations work",
-		  "Available for new projects"
+		  "Available for new projects",
 		  "Living my passion"
 	  ],
   },
