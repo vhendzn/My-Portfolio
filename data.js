@@ -80,7 +80,7 @@ export default {
       },
 
       link: "twitter.com/AltitudeHQs",
-      image: "/images/Altitude.jpg",
+      image: "/images/Studios Header.jpg",
     },
     {
       info: {
