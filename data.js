@@ -112,7 +112,21 @@ export default {
       },
 
       link: "/",
-      image: "/images/Con esport.jpg",
+      image: "/images/Con esport.jpg",       
+    },
+    {
+      info: {
+        "Rest of my work is here": ["My Behance"],
+        "Description": [
+          "My own behance with tons of more cool stuff",
+        ],
+        "Whats on my Behances": [
+          "All kind of stuff", 
+        ],
+      },
+
+      link: "https://www.behance.net/vhen",
+      image: "/images/ADS.jpg",
     },
   ],
 
